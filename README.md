@@ -1,4 +1,4 @@
-Hi there 👋, I'm Darshana Rokade.
+**Hi there 👋, I'm Darshana Rokade.**
 
 I'm a Graduate student pursuing a Master’s in Computer Software Engineering (Data Analytics) at Northeastern University, with a background in Data Analytics & Engineering. My technical skills include Python, SQL, AWS, Azure, Power BI, and Talend.
 
