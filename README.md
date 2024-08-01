@@ -1,4 +1,4 @@
-***Hi there 👋, I'm Darshana Rokade.***
+# Hi there 👋, I'm Darshana Rokade #
 
 I'm a Graduate student pursuing a Master’s in Computer Software Engineering (Data Analytics) at Northeastern University, with a background in Data Analytics & Engineering. My technical skills include Python, SQL, AWS, Azure, Power BI, and Talend.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 👯 I’m eager to collaborate on projects related to Data Analytics, Cloud Computing, and Business Intelligence.
 
-💬 Feel free to ask me about Data analytics, Data Architecture, or anything related to Business Intelligence.
+💬 Feel free to ask me about Data analytics, Data Architecture, or anything related to Data.
 
 📫 Reach me at: rokade.d@northeastern.edu or connect with me on LinkedIn.
 
