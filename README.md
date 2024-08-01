@@ -4,9 +4,9 @@ I'm a Graduate student pursuing a Master’s in Computer Software Engineering (D
 
 Welcome to my GitHub profile!
 
-🔭 I’m currently working on advanced data architectures and business intelligence projects.
+🔭 I’m currently working on Advanced Data Architectures and Business Intelligence projects.
 
-🌱 I’m learning about cutting-edge data architecture techniques and cloud solutions.
+🌱 I’m learning about cutting-edge Data Architecture Techniques and Cloud Solutions.
 
 👯 I’m eager to collaborate on projects related to Data Analytics, Cloud Computing, and Business Intelligence.
 
