@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋, I'm Darshana Rokade.
 
-<!--
-**darshana-mis/darshana-mis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Graduate student pursuing a Master’s in Computer Software Engineering (Data Analytics) at Northeastern University, with a background in Data Analytics & Engineering. My technical skills include Python, SQL, AWS, Azure, Power BI, and Talend.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on advanced data architectures and business intelligence projects.
+
+🌱 I’m learning about cutting-edge data architecture techniques and cloud solutions.
+
+👯 I’m eager to collaborate on projects related to Data Analytics, Cloud Computing, and Business Intelligence.
+
+💬 Feel free to ask me about Data analytics, Data Architecture, or anything related to Business Intelligence.
+
+📫 Reach me at: rokade.d@northeastern.edu or connect with me on LinkedIn.
+
+Thanks for stopping by!
