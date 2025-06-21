@@ -16,9 +16,4 @@ Welcome to my GitHub profile!
 
 Thanks for stopping by!
 
-# Tools, Technologies and Languages #
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,postgres,aws,azure,gcp,dynamodb,github,anaconda,docker,kafka,matlab,notion,sklearn,selenium,vscode&perline=9" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,mongodb,postgres,aws,azure,gcp,dynamodb,github,anaconda,docker,kafka,matlab,notion,sklearn,selenium,vscode&perline=9)](https://skillicons.dev)
