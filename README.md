@@ -16,4 +16,5 @@ Welcome to my GitHub profile!
 
 Thanks for stopping by!
 
+# My Skills #
 [![My Skills](https://skillicons.dev/icons?i=py,r,mysql,mongodb,postgres,aws,azure,gcp,dynamodb,github,anaconda,docker,kafka,matlab,notion,sklearn,selenium,vscode&perline=9)](https://skillicons.dev)
