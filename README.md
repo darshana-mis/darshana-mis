@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Darshana Rokade #
 
-I'm a Graduate student pursuing a Master’s in Computer Software Engineering (Data Analytics) at Northeastern University, with a background in Data Analytics & Engineering. My technical skills include Python, SQL, AWS, Azure, Power BI, and Talend.
+I’m a Data Analyst and Engineer with 3+ years of professional experience, with a Master’s in Computer Software Engineering (Data Analytics) from Northeastern University. I’m passionate about turning complex data into meaningful insights and building scalable, cloud-based data solutions.
 
 Welcome to my GitHub profile!
 
@@ -15,3 +15,10 @@ Welcome to my GitHub profile!
 📫 Reach me at: rokade.d@northeastern.edu or connect with me on LinkedIn.
 
 Thanks for stopping by!
+
+# Tools, Technologies and Languages #
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,postgres,aws,azure,gcp,dynamodb,github,anaconda,docker,kafka,matlab,notion,sklearn,selenium,vscode&perline=9" />
+  </a>
+</p>
